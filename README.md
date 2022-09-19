@@ -1,16 +1,10 @@
-### Hi there 👋
+I'm a Software Engineer, Content Creator, and Community Engineer who currently works as a Developer Advocate at Commerce Layer. I'm passionate about sharing knowledge, documentation, web engineering, Jamstack, headless commerce, and others. I create technical content (on my Blog, Newsletter, and YouTube), build useful open-source projects, speak at some meetups/conferences, build technical communities...
 
-<!--
-**IbkadirDev/ibkadirDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here's a quick summary about me:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Version control.
-- 🌱 I’m currently learning Cloud Engineering At Altschool Scool of Engineering
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me on LinkedIn www.linkedin.com/in/ibrahim-kadiri, you can also reach me via Mail on Ibrahimolakadir@gmail.com
-- 😄 Pronouns: He & Him
-- ⚡ Fun fact: ...
--->
+blush Pronouns: He/him
+bulb Fun fact: I'm currently studying at AltSchool Africa School of Software Engineering Class of 2022.
+seedling I’m currently learning JavaScript, Reactjs, and Python.
+blush I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
+briefcase Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
+mailbox You can view my resume and contact me by emailing ibrahimolakadir@gmail.com.
